@@ -4,7 +4,7 @@
 
 | 角色 | 路径 |
 |---|---|
-| **源（唯一权威，改这里）** | `<源目录>`（本机：`D:\Hermes\work\skills\b-prompt\`） |
+| **源（唯一权威，改这里）** | 任意位置，例如 `<你的工作目录>/skills/b-prompt/` |
 | Hermes 副本 | `%LOCALAPPDATA%\hermes\skills\<分类>\b-prompt\`（Linux/macOS：`~/.local/share/hermes/skills/...`） |
 | Claude Code 副本 | `~/.claude/skills/b-prompt/` |
 | pi 副本 | `~/.pi/agent/skills/b-prompt/` |
